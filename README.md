@@ -34,3 +34,6 @@ After gathering this data, the scraper **filters** out products that do not have
 ```
 ## Exemple in PostMan :
 ![image](https://github.com/Devai-coding/web-scarper/assets/113947156/6181b13d-5ef9-42ca-9c08-87433c941c2f)
+
+## Contributions and Feedback Welcome :
+Feel free to clone this repository and explore the code, report any issues or bugs you encounter, and share your ideas for new features or improvements.
